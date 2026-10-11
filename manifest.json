@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pytest-freezer",
+  "versions": [
+    {
+      "commit": "d6fcf3856b8fd20c11a172bb329c432d708d5e80",
+      "parsed_at": "2026-10-11T02:48:03.284739+00:00",
+      "tag": "0.4.9",
+      "filetree": "filetree/d6fcf3856b8fd20c11a172bb329c432d708d5e80.nq.gz",
+      "blobs": [
+        "blob/a5035299e842d516b36747fa528a8a3c8eceb2b7.nq.gz",
+        "blob/c6481d5f740462ec9fd3edcb32aa56806e316c77.nq.gz",
+        "blob/5a5de99b552d387c9617b4826108969f0f5de22c.nq.gz",
+        "blob/3d8d92b09313027f605ede3da44e58ac6b4780a8.nq.gz",
+        "blob/990e98f007251992537aa13f6a87c58db33abc19.nq.gz",
+        "blob/8b2ed274a3156b474fd14e2f597237d62028fde7.nq.gz",
+        "blob/c8444181ed0b61023b5e4fed5ed8820b4db10d47.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
