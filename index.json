@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-freezer",
+  "versions": [
+    {
+      "commit": "d6fcf3856b8fd20c11a172bb329c432d708d5e80",
+      "tag": "0.4.9",
+      "parsed_at": "2026-10-11T02:50:32.819113+00:00"
+    }
+  ]
+}
